@@ -1,3 +1,5 @@
-## 小游戏
+## 《外星人入侵》
 
-《外星人入侵》
+```python
+python alien_invasion.py
+```
